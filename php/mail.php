@@ -16,7 +16,7 @@ if($_POST) {
 
   
 	/* Change Here Your Email Address*/
-	$to = "myname@email.com";
+	$to = "logan.hufstetler@gmail.com";
 
 	// Prepare message
 	$message = "You have received email from: ".$name.", ".$email.".<br />";
