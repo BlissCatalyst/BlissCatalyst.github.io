@@ -1090,6 +1090,11 @@ li:last-child {
     text-align: left;
 }
 
+.center-work {
+    display: flex;
+    justify-content: center;
+}
+
 /* End Works */
 
 /* Partners */
